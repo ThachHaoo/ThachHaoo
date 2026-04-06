@@ -1,0 +1,50 @@
+name: Profile Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-cards:
+    name: Generate profile SVG cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate cards
+        shell: bash
+        env:
+          USERNAME: ThachHaoo
+        run: |
+          set -euo pipefail
+          mkdir -p profile
+
+          stats_url="https://github-readme-stats-sigma-five.vercel.app/api?username=${USERNAME}&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=21600"
+          langs_url="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=${USERNAME}&layout=compact&theme=material-palenight&hide_border=false&cache_seconds=21600"
+          trophy_url="https://github-profile-trophy.vercel.app/?username=${USERNAME}&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+
+          curl -fsSL "$stats_url" -o profile/stats.svg
+          curl -fsSL "$langs_url" -o profile/top-langs.svg
+          # Keep current trophy card if external service is unavailable.
+          curl -fsSL "$trophy_url" -o profile/trophy.svg || echo "trophy service unavailable, keeping existing file"
+
+      - name: Commit updated cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- profile/stats.svg profile/top-langs.svg profile/trophy.svg; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg profile/trophy.svg
+          git commit -m "Update profile stats cards"
+          git push

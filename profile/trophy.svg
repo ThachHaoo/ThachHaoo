@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="GitHub Trophies unavailable">
+  <rect width="900" height="120" fill="#2b2d42" rx="8" ry="8"/>
+  <text x="450" y="54" fill="#d6bcfa" font-size="24" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">GitHub Trophies Temporarily Unavailable</text>
+  <text x="450" y="84" fill="#a0aec0" font-size="16" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">The external trophy API is currently unstable. This card will auto-refresh when available.</text>
+</svg>

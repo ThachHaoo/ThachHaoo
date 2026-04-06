@@ -75,11 +75,13 @@ A third-year Software Engineering student from Vietnam. I'm building modern appl
 ---
 ## Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThachHaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="ThachHaoo GitHub Stats" />
-    <br />
-    <img src="https://streak-stats.demolab.com?user=ThachHaoo&theme=radical&hide_border=true" alt="ThachHaoo GitHub Streak Stats" />
-</div>
+![](./profile/stats.svg)
+
+<p><img src="https://streak-stats.demolab.com?user=ThachHaoo&theme=material-palenight&hide_border=false" alt="ThachHaoo" /></p>
+
+![](./profile/top-langs.svg)
+
+![](./profile/trophy.svg)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
