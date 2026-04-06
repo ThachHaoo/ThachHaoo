@@ -86,15 +86,13 @@ A third-year Software Engineering student from Vietnam. I'm building modern appl
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
 > 🏆 299 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
@@ -103,17 +101,17 @@ A third-year Software Engineering student from Vietnam. I'm building modern appl
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1444 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-🌆 Daytime                5304 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
+🌞 Morning                1446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌆 Daytime                5304 commits        ███████████░░░░░░░░░░░░░░   43.27 % 
 🌃 Evening                3694 commits        ████████░░░░░░░░░░░░░░░░░   30.14 % 
 🌙 Night                  1813 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1283 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Monday                   1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 Tuesday                  1063 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Wednesday                2013 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                2013 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 Thursday                 1601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 Friday                   2307 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 Saturday                 2538 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
@@ -149,7 +147,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThachHaoo/ThachHaoo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2026 04:44:19 UTC
+ Last Updated on 06/04/2026 04:55:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
