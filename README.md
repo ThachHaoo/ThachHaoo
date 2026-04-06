@@ -79,27 +79,9 @@ A third-year Software Engineering student from Vietnam. I'm building modern appl
     <img src="https://github-readme-stats.vercel.app/api?username=ThachHaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="ThachHaoo GitHub Stats" />
     <br />
     <img src="https://streak-stats.demolab.com?user=ThachHaoo&theme=radical&hide_border=true" alt="ThachHaoo GitHub Streak Stats" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachHaoo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="ThachHaoo Top Languages" />
-    <br />
-    <img src="https://github-profile-trophy.vercel.app/?username=ThachHaoo&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="ThachHaoo GitHub Trophies" />
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 299 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
