@@ -76,13 +76,13 @@ A third-year Software Engineering student from Vietnam. I'm building modern appl
 ## Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThachHaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="ThachHaoo GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ThachHaoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="ThachHaoo GitHub Stats" />
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThachHaoo&theme=radical&hide_border=true" alt="ThachHaoo GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=ThachHaoo&theme=radical&hide_border=true" alt="ThachHaoo GitHub Streak Stats" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachHaoo&layout=compact&theme=radical&hide_border=true" alt="ThachHaoo Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThachHaoo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="ThachHaoo Top Languages" />
     <br />
-    <img src="https://github-profile-trophy.vercel.app/?username=ThachHaoo&theme=radical&no-frame=true&margin-w=10" alt="ThachHaoo GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ThachHaoo&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="ThachHaoo GitHub Trophies" />
 </div>
 
 <!--START_SECTION:waka-->
