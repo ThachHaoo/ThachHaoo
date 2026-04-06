@@ -86,55 +86,70 @@ A third-year Software Engineering student from Vietnam. I'm building modern appl
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-%2D%2D-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 🏆 -- Contributions in the Year 2026
->
-> 📦 -- Public Repositories
->
-> 💼 Open to Hire: Yes
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning    -- commits      ████████░░░░░░░░░░░░░░░░░   --%
-🌆 Daytime    -- commits      █████████████░░░░░░░░░░░░   --%
-🌃 Evening    -- commits      ███████░░░░░░░░░░░░░░░░░░   --%
-🌙 Night      -- commits      ███░░░░░░░░░░░░░░░░░░░░░░░   --%
-```
-
-**I'm Most Productive on Weekdays**
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 299 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Monday       -- commits      █████████░░░░░░░░░░░░░░░░   --%
-Tuesday      -- commits      █████░░░░░░░░░░░░░░░░░░░░░   --%
-Wednesday    -- commits      ███████░░░░░░░░░░░░░░░░░░░   --%
-Thursday     -- commits      ████████░░░░░░░░░░░░░░░░░░   --%
-Friday       -- commits      ███████████░░░░░░░░░░░░░░░   --%
-Saturday     -- commits      ██████░░░░░░░░░░░░░░░░░░░░   --%
-Sunday       -- commits      ████░░░░░░░░░░░░░░░░░░░░░░   --%
+🌞 Morning                1444 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+🌆 Daytime                5304 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
+🌃 Evening                3694 commits        ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌙 Night                  1813 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
-
-**📊 This Week I Spent My Time On**
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-💬 Programming Languages:
-JavaScript / TypeScript / React / NestJS    -- hrs -- mins   ██████████████████░░░░░░░░   70%
-C++ / C# / WinUI                           -- hrs -- mins   ███████░░░░░░░░░░░░░░░░░░░   30%
+Monday                   1283 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Tuesday                  1063 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Wednesday                2013 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Thursday                 1601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Friday                   2307 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Saturday                 2538 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Sunday                   1450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
-**I Mostly Code in**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-JavaScript / TypeScript   -- repos          █████████████████░░░░░░░░   --%
-C++                       -- repos          ████████░░░░░░░░░░░░░░░░░   --%
-React                    -- repos          █████░░░░░░░░░░░░░░░░░░░░░   --%
-NestJS                   -- repos          ███░░░░░░░░░░░░░░░░░░░░░░   --%
+💬 Programming Languages: 
+CSV                      5 hrs 47 mins       █████████████░░░░░░░░░░░░   51.97 % 
+Markdown                 2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Python                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
-Last Updated on --/--/----
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ThachHaoo/ThachHaoo/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/04/2026 04:44:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
